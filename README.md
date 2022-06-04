@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LionelxLynch
-- 👀 I’m interested in ... Cutting edge tech
-- 🌱 I’m currently learning ... All things Comp Sci.
+- 👋 Hi, I’m Lionel Lynch ... (lionelxlynch)
+- 👀 I’m interested in ... Solving difficult and meaningful problems 
+- 🌱 I’m currently learning ... All things Computers
 - 📫 How to reach me ... LionelTLynch@yahoo.com
 
 <!---
